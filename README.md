@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Raisul Islam Evan 👋</h1>
-<h3 align="center">🚀 Backend Software Engineer | Go Developer</h3>
+<h3 align="center">🚀 Software Engineer | Backend Specialist </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Evanraisul&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -9,13 +9,12 @@
 
 ### 🌟 **About Me**
 
-* 💻 **Backend Software Engineer** working at **TechnoNext Software Ltd.**, contributing to the Foodi food delivery platform.
+* 💻 **Backend Software Engineer** working at **Foodi Express Limited**, contributing to the Foodi food delivery platform.
 * 🏗️ Working primarily with **Go, Microservices, REST APIs, gRPC, PostgreSQL, Redis, and RabbitMQ**.
 * ⚡ Interested in building **scalable, reliable, and high-performance backend systems**.
 * 🔧 Experienced in developing and maintaining distributed services, APIs, caching systems, background workers, and event-driven workflows.
 * 🧠 Passionate about **system design, data structures, algorithms, and backend architecture**.
 * 🎯 Regularly improving problem-solving skills through **LeetCode and algorithmic challenges**.
-* 🌍 Exploring **OpenStreetMap, PostGIS, and Uber H3** for geospatial applications.
 * 📚 Interested in **distributed systems, performance optimization, clean architecture, and scalable software design**.
 
 ---
