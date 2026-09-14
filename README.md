@@ -25,8 +25,10 @@
 #### 💻 Languages
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
 
 #### 🔌 Backend & APIs
 
