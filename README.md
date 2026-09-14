@@ -10,6 +10,7 @@
 ### 🌟 **About Me**
 
 * 💻 **Backend Software Engineer** working at **Foodi Express Limited**, contributing to the Foodi food delivery platform.
+* 🔙 Previously at **AppsCode Inc.** – Worked on **KubeDB project**, contributed to run databases on kubernetes.
 * 🏗️ Working primarily with **Go, Microservices, REST APIs, gRPC, PostgreSQL, Redis, and RabbitMQ**.
 * ⚡ Interested in building **scalable, reliable, and high-performance backend systems**.
 * 🔧 Experienced in developing and maintaining distributed services, APIs, caching systems, background workers, and event-driven workflows.
