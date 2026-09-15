@@ -14,7 +14,7 @@
 * 🏗️ Working primarily with **Go, Backend, Microservices, REST APIs, gRPC, PostgreSQL, Redis, and RabbitMQ**.
 * ⚡ Interested in building **scalable, reliable, and high-performance backend systems**.
 * 🧠 Passionate about **system design, data structures, algorithms, and backend architecture**.
-* 🎯 **ICPC Asia West Finalist**, **ranked top 800 in **Meta HackerCup**, ranked top 20 in **IUPC**, solved around **2000+** problems.
+* 🎯 **ICPC Asia West Finalist**, **ranked top **800** in **Meta HackerCup**, ranked top **20** in **IUPC**, solved around **2000+** problems.
 * 📚 Interested in **distributed systems, performance optimization, clean architecture, and scalable software design**.
 * 🎓 Published research paper on **IEEE Xplore** on Optimization algorithms in Machine Learning.
 
